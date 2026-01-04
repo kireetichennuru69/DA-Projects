@@ -18,13 +18,29 @@
 ---
 
 ## Business Understanding
-Describe the business problem or use case this project addresses.
 
-- What is the objective?
-A leading business company wants to understand their customers shopping behaviour in oder to improve their sales, customer satisfaction and long-term loyality.
-  
-- Who are the stakeholders or end users?
-- What decisions or insights does this project enable?
+### Business Problem / Use Case
+This project addresses the need for a leading business company to understand their customers' shopping behaviour in order to improve sales, customer satisfaction, and long-term loyalty.
+
+### Objective
+- Gain insights into customer shopping behaviour.  
+- Improve overall sales performance.  
+- Enhance customer satisfaction.  
+- Build and sustain long-term customer loyalty.  
+
+### Stakeholders / End Users
+- Business executives and decision-makers  
+- Marketing and sales teams  
+- Customer experience and support teams  
+- Data analysts and business intelligence teams  
+- End customers (indirect beneficiaries)  
+
+### Decisions / Insights Enabled
+- Identification of customer purchasing patterns and preferences  
+- Improved targeting and personalization of marketing campaigns  
+- Optimization of product offerings and pricing strategies  
+- Enhanced customer retention strategies  
+- Data-driven decision-making for long-term growth  
 
 ---
 
