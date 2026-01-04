@@ -20,7 +20,7 @@
 ## Business Understanding
 
 ### Business Problem / Use Case
-A leading retail company wants to better understand their customers' shopping behaviour in order to improve sales, customer satisfaction, and long-term loyalty. The managemnent has noticed changes in the purchasing patterns across demographics, product catergories and sales channels (Onlne vs Offline). They are particularly interested in uncovering the factors such as discounts, reviews, seasons or payment preferences, drive consumer decisions and repeat purchases.
+A leading retail company wants to better understand their customers shopping behaviour in order to improve sales, customer satisfaction, and long-term loyalty. The managemnent has noticed changes in the purchasing patterns across demographics, product catergories and sales channels (Onlne vs Offline). They are particularly interested in uncovering the factors such as discounts, reviews, seasons or payment preferences, drive consumer decisions and repeat purchases.
 
 ### Objective
 - Gain insights into customer shopping behaviour.  
