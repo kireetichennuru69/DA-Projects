@@ -21,6 +21,8 @@
 Describe the business problem or use case this project addresses.
 
 - What is the objective?
+  A leading business company wants to understand their customers shopping behaviour in oder to improve their sales, customer satisfaction and long-term loyality.
+  
 - Who are the stakeholders or end users?
 - What decisions or insights does this project enable?
 
