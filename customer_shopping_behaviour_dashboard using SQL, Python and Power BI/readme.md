@@ -12,7 +12,6 @@
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
-- [Status](#status)
 - [Credits](#credits)
 
 ---
