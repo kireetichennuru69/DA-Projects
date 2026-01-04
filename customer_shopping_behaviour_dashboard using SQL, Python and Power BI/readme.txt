@@ -1,14 +1,14 @@
 # Project Title
 
 ## Demo Link
-- 🔗 [Live Demo / Dashboard / Application](#)
+🔗 Live Demo / Dashboard / Application: <add-link-here>
 
 ---
 
-## Table of Contents (optional)
+## Table of Contents
 - [Business Understanding](#business-understanding)
 - [Data Understanding](#data-understanding)
-- [Screenshots of Visualizations / Results](#screenshots-of-visualizations--results)
+- [Screenshots of Visualizations / Results](#screenshots-of-visualizationsresults)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
@@ -30,14 +30,15 @@ Describe the business problem or use case this project addresses.
 Explain the data used in the project.
 
 - Data source(s)
-- Data volume and structure
-- Key tables / fields
-- Data quality issues or assumptions
+- Data format and structure
+- Key tables or columns
+- Data quality considerations
 
 ---
 
 ## Screenshots of Visualizations / Results
-Add screenshots or sample outputs here.
+Add screenshots or outputs of dashboards, reports, or results.
 
-```text
-📌 Tip: Store images in a /screenshots or /assets folder and reference them below
+Example:
+```markdown
+![Dashboard Screenshot](screenshots/dashboard.png)
