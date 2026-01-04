@@ -42,9 +42,14 @@ Add screenshots or outputs of dashboards, reports, or results.
 Example:
 ```markdown
 ![Dashboard Screenshot](screenshots/dashboard.png)
+```
 
 
----
 
 ## Technologies
+
+
+
+
+
 
