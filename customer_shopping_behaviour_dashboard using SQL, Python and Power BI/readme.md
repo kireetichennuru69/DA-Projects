@@ -8,7 +8,7 @@
 ## Table of Contents
 - [Business Understanding](#business-understanding)
 - [Data Understanding](#data-understanding)
-- [Screenshots of Visualizations / Results](#screenshots-of-visualizationsresults)
+- [Screenshots of Visualizations](#screenshots-of-visualizations)
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Approach](#approach)
@@ -36,9 +36,13 @@ Explain the data used in the project.
 
 ---
 
-## Screenshots of Visualizations / Results
+## Screenshots of Visualizations
 Add screenshots or outputs of dashboards, reports, or results.
 
 Example:
 ```markdown
 ![Dashboard Screenshot](screenshots/dashboard.png)
+
+
+
+## Technologies
